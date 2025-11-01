@@ -12,16 +12,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Generate the snake animation from the GitHub contribution grid
+      # Step 1: Generate the snake SVG
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: the-youngdev
           outputs: dist/github-contribution-grid-snake.svg
 
-      # Deploy the generated SVG to the 'output' branch
+      # Step 2: Push the generated SVG to the 'output' branch
       - name: Push Snake SVG to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
