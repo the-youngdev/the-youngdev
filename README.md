@@ -1,9 +1,10 @@
 ## 🪄 **Soumyadip Das (Jojo)**  
 > *“CS Major • Mechatronics Enthusiast • AI Agent Developer”*
 
-<div align="center">
-  <img src="https://i.imgur.com/xwV7qna.gif" width="100%" alt="Zenitsu anime banner"/>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/the-youngdev/the-youngdev/master/zenitsu-banner.jpg" alt="Zenitsu Banner" width="100%" style="border-radius:15px;">
+</p>
+
 
 ---
 
