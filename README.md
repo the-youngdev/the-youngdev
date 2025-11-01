@@ -76,7 +76,8 @@ fun_fact: I once built my own robot chasis out of icecream sticks 🌀
 ---
 
 ### ⚡ **Vibe Check**
-> “Focus like Zenitsu. Strike like Thunder. Build like a Maker.” ⚡  
+> “Focus like Zenitsu. Strike like Thunder. Build like a Maker.” ⚡
+> Life in one song--> "Loser" by Tame Impala
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/8a/87/5e/8a875ee3d9c13f96e58c9303ddedb6a2.gif" width="300" alt="Zenitsu breathing gif"/>
@@ -91,15 +92,3 @@ fun_fact: I once built my own robot chasis out of icecream sticks 🌀
 - ✨ Designing **AI agents that interact with the physical world**
 
 ---
-
-### 🪶 **Theme**
-> 💜 Aesthetic Purple | Neon Cyberpunk | Anime-tech fusion  
-
----
-
-### 🧭 **How to Use**
-To display the contribution animation:
-1. Fork this repo and name it exactly `SoumyadipDas`
-2. Add a GitHub Action like [Platane/snk](https://github.com/Platane/snk)
-3. Commit `github-contribution-grid-snake.svg` in `/output`  
-→ The animation will update daily automatically 🐍
