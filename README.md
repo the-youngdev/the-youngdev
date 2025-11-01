@@ -2,7 +2,7 @@
 > *“CS Major • Mechatronics Enthusiast • AI Agent Developer”*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/the-youngdev/the-youngdev/master/zenitsu-banner.jpg" alt="Zenitsu Banner" width="100%" style="border-radius:15px;">
+  <img src="https://raw.githubusercontent.com/the-youngdev/the-youngdev/main/zenitsu-banner.jpg" alt="Zenitsu Banner" width="100%" style="border-radius:15px;">
 </p>
 
 
