@@ -70,7 +70,7 @@ fun_fact: I once built my own robot chasis out of icecream sticks 🌀
 
 ### 🧩 **Contribution Animation**
 <div align="center">
-  <img src="https://github.com/SoumyadipDas/SoumyadipDas/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/the-youngdev/the-youngdev/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
 ---
