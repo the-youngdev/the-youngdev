@@ -88,5 +88,5 @@ fun_fact: I once built my own robot chasis out of icecream sticks 🌀
 
 <p align="center"> <img src="https://raw.githubusercontent.com/the-youngdev/the-youngdev/main/zenitsu-footer.jpg" width="400" alt="zenitsu-footer"><br><br>
   <span style="font-style: italic;">
-   ⚡ fin ⚡
+  <em> ⚡ fin ⚡</em>
   </span></p> 
