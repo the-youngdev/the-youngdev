@@ -73,7 +73,7 @@ fun_fact: I once built my own robot chasis out of icecream sticks 🌀
 <p align="center"> <em>“Focus like Zenitsu. Strike like Thunder. Build like a Maker.” ⚡</em><br> <em>🎧 Life in one song → <strong>"Loser"</strong> by <strong>Tame Impala</strong></em> </p> <div align="center">
   
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8a/87/5e/8a875ee3d9c13f96e58c9303ddedb6a2.gif" width="300" alt="Zenitsu breathing gif"/>
+<img src="https://raw.githubusercontent.com/the-youngdev/the-youngdev/main/zenitsu-breathing.gif" alt="Zenitsu Banner">
 </div>
 
 ---
