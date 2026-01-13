@@ -59,7 +59,7 @@ fun_fact: I once built my own robot chasis out of icecream sticks 🌀
 
 
 ### 📈 **GitHub Stats**
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=the-youngdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-youngdev&theme=tokyonight&hide_border=true&background=00000000" height="160"/> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-youngdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160"/> </div>
+<div align="center"> <!-- GitHub Stats --> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=the-youngdev&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <!-- Streak Stats --> <img src="https://streak-stats.demolab.com/?user=the-youngdev&theme=tokyonight&hide_border=true" height="160"/> <!-- Top Languages --> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=the-youngdev&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </div>
 
 
 ### 🧩 **Contribution Animation**
