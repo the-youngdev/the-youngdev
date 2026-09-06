@@ -5,7 +5,6 @@
   <img src="https://raw.githubusercontent.com/the-youngdev/the-youngdev/main/zenitsu-banner.jpg" alt="Zenitsu Banner" width="100%" style="border-radius:15px;">
 </p>
 
-
 ---
 
 ### 👋 **Hey there!**  
@@ -56,11 +55,13 @@ fun_fact: I once built my own robot chasis out of icecream sticks 🌀
 
 ---
 
-
-
 ### 📈 **GitHub Stats**
-<div align="center"> <!-- GitHub Stats --> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=the-youngdev&show_icons=true&theme=tokyonight&hide_border=true" height="160"/> <!-- Streak Stats --> <img src="https://streak-stats.demolab.com/?user=the-youngdev&theme=tokyonight&hide_border=true" height="160"/> <!-- Top Languages --> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=the-youngdev&layout=compact&theme=tokyonight&hide_border=true" height="160"/> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=the-youngdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-youngdev&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</div>
 
+---
 
 ### 🧩 **Contribution Animation**
 <div align="center">
@@ -70,7 +71,7 @@ fun_fact: I once built my own robot chasis out of icecream sticks 🌀
 ---
 
 ### ⚡ **Vibe Check**
-<p align="center"> <em>“Focus like Zenitsu. Strike like Thunder. Build like a Maker.” ⚡</em><br> <em>🎧 Life in one song → <strong>"Loser"</strong> by <strong>Tame Impala</strong></em> </p> <div align="center">
+<p align="center"> <em>“Focus like Zenitsu. Strike like Thunder. Build like a Maker.” ⚡</em><br> <em>🎧 Life in one song → <strong>"Loser"</strong> by <strong>Tame Impala</strong></em> </p>
   
 <div align="center">
 <img src="https://raw.githubusercontent.com/the-youngdev/the-youngdev/main/zenitsu-breathing.gif" alt="Zenitsu Banner">
