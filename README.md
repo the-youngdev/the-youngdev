@@ -1,5 +1,5 @@
 ## 🪄 **Soumyadip Das (Jojo)**  
-> *“CS Major • Mechatronics Enthusiast • AI Agent Developer”*
+> *"CS Major • Mechatronics Enthusiast • AI Agent Developer"*
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/the-youngdev/the-youngdev/main/zenitsu-banner.jpg" alt="Zenitsu Banner" width="100%" style="border-radius:15px;">
@@ -8,9 +8,9 @@
 ---
 
 ### 👋 **Hey there!**  
-I’m **Soumyadip Das**, aka **Jojo**, a passionate explorer at the intersection of **Mechatronics** ⚙️ and **Artificial Intelligence** 🧠.  
+I'm **Soumyadip Das**, aka **Jojo**, a passionate explorer at the intersection of **Mechatronics** ⚙️ and **Artificial Intelligence** 🧠.  
 I build **bots that think, balance, and adapt**, blending embedded systems, machine learning, and a creative spark.  
-> 🌸 “Turning circuits & code into something that *feels alive*.”
+> 🌸 "Turning circuits & code into something that *feels alive*."
 
 ---
 
@@ -57,12 +57,18 @@ fun_fact: I once built my own robot chasis out of icecream sticks 🌀
 
 ### 📈 **GitHub Stats**
 <div align="center">
-  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=the-youngdev&show_icons=true&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=the-youngdev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
-  </a>
-  <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=the-youngdev&layout=compact&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=the-youngdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=the-youngdev&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-youngdev&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+</div>
+
+---
+
+### 📊 **Activity Graph**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-youngdev&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -76,7 +82,7 @@ fun_fact: I once built my own robot chasis out of icecream sticks 🌀
 
 ### ⚡ **Vibe Check**
 <p align="center">
-  <em>“Focus like Zenitsu. Strike like Thunder. Build like a Maker.” ⚡</em><br>
+  <em>"Focus like Zenitsu. Strike like Thunder. Build like a Maker." ⚡</em><br>
   <em>🎧 Life in one song → <strong>"Loser"</strong> by <strong>Tame Impala</strong></em>
 </p>
   
