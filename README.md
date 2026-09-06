@@ -61,14 +61,14 @@ fun_fact: I once built my own robot chasis out of icecream sticks 🌀
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-youngdev&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-youngdev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" alt="Top Languages" />
 </div>
 
 ---
 
 ### 📊 **Activity Graph**
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-youngdev&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-youngdev&theme=tokyo-night&hide_border=true&area=true&hide_title=true" alt="Activity Graph" />
 </div>
 
 ---
