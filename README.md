@@ -93,7 +93,7 @@ fun_fact: I once built my own robot chasis out of icecream sticks 🌀
 ---
 
 ### 💬 **Currently Working On**
-- 🔩 Integrating **ESP32** with **AI inference pipelines**
+- 🔩 Integrating **ESP32** and **Raspberry Pi4** with **AI inference pipelines**
 - 🧠 Experimenting with **vision transformers** for real-time recognition
 - ⚙️ Optimizing **embedded robotics control loops**
 - ✨ Designing **AI agents that interact with the physical world**
